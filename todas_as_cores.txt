@@ -1,0 +1,8 @@
+azul
+preto
+verde
+violeta
+vermelho 
+laranja
+marrom
+lilas 
